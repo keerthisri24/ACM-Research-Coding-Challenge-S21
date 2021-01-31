@@ -16,3 +16,5 @@ depending on where it is saved.
 ## Sources and Documentation
 * [BioPython SeqIO](https://biopython.org/wiki/SeqIO)
 * [BioPython GenomeDiagram](http://biopython.org/DIST/docs/GenomeDiagram/userguide.pdf)
+
+Thanks for this opportunity!
